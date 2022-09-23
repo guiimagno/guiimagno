@@ -22,7 +22,9 @@
 
 	- Java, Quarkus framework, Microservices, REST API
 
-	- Git, SQL Server, Maven, Hibernate, Panache, Docker, ActiveMQ, AMQP, Microsoft Azure, Azure Devops, Insomnia, Dbeaver
+	- Git, SQL Server, Maven, Hibernate, Panache, Docker, ActiveMQ, AMQP, 
+	
+	- Microsoft Azure, Azure Devops, Insomnia, Dbeaver
 
     
 
